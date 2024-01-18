@@ -1,4 +1,4 @@
-![kaggle](https://img.shields.io/badge/kaggle-3f2aff?style=for-the-badge&logo=kaggleColor=whitehttps://www.kaggle.com/necrotox)
+![kaggle](https://img.shields.io/badge/kaggle-3f2aff?style=for-the-badge&logo=kaggleColor=white)![](https://www.kaggle.com/necrotox)
 ## Hi there 👋 I am Viktor Aleksnadrov 
 
 - 🔭 I’m currently working in Sovcombank
