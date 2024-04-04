@@ -1,6 +1,6 @@
 [![](https://img.shields.io/badge/Kaggle-00599C?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/necrotox/) &emsp;
 [![](https://img.shields.io/badge/habr-grey?style=for-the-badge&logo=habr&logoColor=white)](https://career.habr.com/necrotoxxx) &emsp;
-[![](https://img.shields.io/badge/mail-088aff?style=for-the-badge&logo=mail.ru&logoColor=orange)](mailto:viktor.aleksandrov.97@mail.ru) &emsp;
+[![](https://img.shields.io/badge/mail-088aff?style=for-the-badge&logo=mail.ru&logoColor=orange)](mailto:ds_viktor_aleksandov@mail.ru) &emsp;
 [![](https://img.shields.io/badge/telegram-1877F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/necrotoxspn/) &emsp;
 
 
